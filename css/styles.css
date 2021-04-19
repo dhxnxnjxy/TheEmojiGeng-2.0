@@ -121,3 +121,7 @@ a{
 .footer-link:hover{
   color: #f1faee;
 }
+.copyright{
+  width: 70%;
+  margin: auto;
+}
